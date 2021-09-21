@@ -1,0 +1,18 @@
+{
+		"env" : "test",
+		"test":
+		{
+			"BaseUrl":"http://api.weatherstack.com",
+			"accessKey":"4a827d32007265457f642f0797474e2e"
+		},
+		"Sit":
+		{
+			"BaseUrl":"https://",
+			"accessKey":""
+		},
+		"preprod":
+		{
+			"BaseUrl":"https://",
+			"accessKey":""
+		}
+}
